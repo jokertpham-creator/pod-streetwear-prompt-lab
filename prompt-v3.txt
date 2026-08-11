@@ -1,0 +1,10 @@
+# After Hours Courier Club — prompt test (v3)
+
+## Intended visual language
+Original streetwear POD screen-print poster: charcoal / warm ivory / acid lime / safety orange; heavy border; checkerboard accents; centered abstract courier-route emblem; flat vector, slight distressed ink.
+
+## Copyable prompt
+Original abstract streetwear POD screen-print poster, one flat square artboard, only inanimate vector geometry, no people, no human, no face, no head, no body, no animal, no vehicle, no helmet, no garment, no mockup, no photo, no 3D, no brand, no logo, no readable text. A large charcoal-black circular courier-route emblem centered on a warm ivory field; a diagonal acid-lime route slash crosses the circle; a safety-orange round map-pin marker overlaps its upper-right edge; small orange utility rectangle at bottom. A heavy charcoal rectangular border, small orange corner registration marks, and black checkerboard tiles in opposite corners. A few abstract dark type bars only, no letters. Crisp flat vector silkscreen, restrained vintage ink speckle, perfect symmetrical poster layout, limited 4-color ink palette: charcoal black, warm ivory, acid lime, safety orange.
+
+## Test result
+REJECTED for this engine: seed 8080 returned a photorealistic person-like masked bust rather than abstract flat vector geometry. Do not use the generated test asset as production artwork.
